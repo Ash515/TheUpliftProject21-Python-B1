@@ -1,5 +1,6 @@
 # TheUpliftProject'21 | Python (Batch 1)
-Project 1 - Simple Calculator
+- Project 1 - Simple Calculator
+- Level - Basic
 
 ## Features
 - Performs Basic Arithmetic operations
