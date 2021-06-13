@@ -9,5 +9,8 @@ Project 1 - Simple Calculator
 - Python3
 - Library - Tkinter
 
+## Image Results
+<img src="Image Results/OP1.png" width=400px> <img src="Image Results/OP2.png" width=400px>
+<img src="Image Results/OP3.png" width=400px>
 # Mentor
 [Ashwin Kumar R](https://github.com/Ash515)
